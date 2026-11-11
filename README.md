@@ -1,89 +1,84 @@
 <div align="center">
 
-# Olá, eu sou o Pietro Lopes!
+# Pietro Lopes
 
-**Engenharia de Dados · Machine Learning · Desenvolvimento**
-
-Construo pipelines que levam o dado bruto até a decisão — e, nas horas vagas, jogos que rodam no navegador.
-
+Estagiário de Engenharia de Dados na **Programmers** · Sistemas de Informação na **Uniara**
 <br>
+Matão, SP
 
-[![Programmers](https://img.shields.io/badge/Trabalho-Programmers%20%E2%80%94%20AI%2C%20Data%20%26%20Software-1f2937?style=for-the-badge&labelColor=0f172a)](https://github.com/Lopespp)
-[![Uniara](https://img.shields.io/badge/Estudo-Sistemas%20de%20Informa%C3%A7%C3%A3o%20%C2%B7%20Uniara-1f2937?style=for-the-badge&labelColor=0f172a)](https://github.com/Lopespp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1f2937?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/pietro-lopes-7b8b102b6)
+[![E-mail](https://img.shields.io/badge/rlopespietro%40gmail.com-1f2937?style=for-the-badge&logo=gmail&logoColor=EA4335)](mailto:rlopespietro@gmail.com)
+[![Handy Bird](https://img.shields.io/badge/Jogar%20Handy%20Bird-1f2937?style=for-the-badge&logo=netlify&logoColor=00C7B7)](https://handy-bird.netlify.app/)
 
 </div>
 
-<br>
+---
 
-## Sobre mim
+Comecei a programar na pandemia: muito tempo em casa e um computador do lado. Fui
+pelo JavaScript e pelo Python por curiosidade e gostei. Em 2022 um amigo me chamou
+para fazer faculdade de programação com ele, e estou nessa desde então.
 
-- 💼 Trabalho com engenharia de dados na **Programmers — AI, Data & Software**
-- 🎓 Curso **Sistemas de Informação** na **Uniara**
-- 🔧 Meu dia a dia é desenhar e manter **pipelines de dados**, da ingestão à camada de consumo
-- 🤖 Tenho experiência com **Machine Learning**, do preparo dos dados ao modelo treinado
-- 🌱 Gosto de aprender construindo: cada projeto aqui começou como um estudo
+Dados entraram na minha vida em 2026, quando entrei no **Desafiados**, o programa de
+estágio da Programmers, que alterna turmas de dev e de dados. Escolhi dados de olho no
+mercado e, trabalhando com isso todo dia, acabei me apaixonando. Hoje passo a maior parte
+do tempo dentro do Databricks: notebooks, jobs, pipelines, modelos de ML orquestrados com
+Airflow e dashboards no Power BI. Já fiz um pouco de tudo: engenharia, ciência e análise
+de dados.
 
-## Skills
+## O que eu uso de verdade
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>Dados &amp; Pipelines</h4>
-      <img alt="Databricks" src="https://img.shields.io/badge/Databricks-1f2937?style=for-the-badge&logo=databricks&logoColor=FF3621">
-      <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-1f2937?style=for-the-badge&logo=apachespark&logoColor=E25A1C">
-      <img alt="Delta Lake" src="https://img.shields.io/badge/Delta%20Lake-1f2937?style=for-the-badge&logo=delta&logoColor=00ADD4">
-      <img alt="MySQL" src="https://img.shields.io/badge/MySQL-1f2937?style=for-the-badge&logo=mysql&logoColor=4479A1">
-      <img alt="SQL" src="https://img.shields.io/badge/SQL-1f2937?style=for-the-badge">
-      <img alt="ETL / ELT" src="https://img.shields.io/badge/ETL%20%2F%20ELT-1f2937?style=for-the-badge">
-    </td>
-    <td valign="top" width="50%">
-      <h4>Python &amp; Machine Learning</h4>
-      <img alt="Python" src="https://img.shields.io/badge/Python-1f2937?style=for-the-badge&logo=python&logoColor=FFD43B">
-      <img alt="PySpark" src="https://img.shields.io/badge/PySpark-1f2937?style=for-the-badge&logo=apachespark&logoColor=E25A1C">
-      <img alt="Pandas" src="https://img.shields.io/badge/Pandas-1f2937?style=for-the-badge&logo=pandas&logoColor=white">
-      <img alt="NumPy" src="https://img.shields.io/badge/NumPy-1f2937?style=for-the-badge&logo=numpy&logoColor=4DABCF">
-      <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-1f2937?style=for-the-badge&logo=scikitlearn&logoColor=F7931E">
-      <img alt="MLflow" src="https://img.shields.io/badge/MLflow-1f2937?style=for-the-badge&logo=mlflow&logoColor=0194E2">
-    </td>
-  </tr>
-  <tr>
-    <td valign="top" width="50%">
-      <h4>JavaScript &amp; Web</h4>
-      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-1f2937?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-      <img alt="HTML5" src="https://img.shields.io/badge/HTML5-1f2937?style=for-the-badge&logo=html5&logoColor=E34F26">
-      <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1f2937?style=for-the-badge&logo=css&logoColor=663399">
-      <img alt="Node.js" src="https://img.shields.io/badge/Node.js-1f2937?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E">
-    </td>
-    <td valign="top" width="50%">
-      <h4>Ferramentas</h4>
-      <img alt="Git" src="https://img.shields.io/badge/Git-1f2937?style=for-the-badge&logo=git&logoColor=F05032">
-      <img alt="GitHub" src="https://img.shields.io/badge/GitHub-1f2937?style=for-the-badge&logo=github&logoColor=white">
-      <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-1f2937?style=for-the-badge&logo=githubactions&logoColor=2088FF">
-      <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-1f2937?style=for-the-badge&logo=jupyter&logoColor=F37626">
-    </td>
-  </tr>
-</table>
+| No dia a dia | Já usei em projeto |
+| --- | --- |
+| Databricks (notebooks, jobs, pipelines, Genie, dashboards) | Microsoft Fabric |
+| Python · SQL · PySpark | Google Cloud (GCP) |
+| Power BI | Looker Studio |
+| Arquitetura medallion (bronze / silver / gold) | Airflow · modelos de ML |
+| Git / GitHub | JavaScript · Phaser · MediaPipe (Handy Bird) |
 
-## Projeto em destaque
+**Inglês:** certificado C1. Me comunico em inglês com tranquilidade.
 
-<a href="https://github.com/Lopespp/Handy-Bird">
-  <img src="https://raw.githubusercontent.com/Lopespp/Handy-Bird/main/web/assets/characters/handy.png" width="96" align="right" alt="Handy, o pássaro de luvas">
-</a>
+## Projetos
 
-### [Handy Bird](https://github.com/Lopespp/Handy-Bird)
+**[Handy Bird](https://github.com/Lopespp/Handy-Bird)**: meu gestor pediu um projeto de
+visão computacional e eu fui longe demais. Virou um jogo em que você controla o pássaro com
+a mão pela webcam: a palma guia o voo, o punho fechado dispara o laser e o sinal de paz pausa.
+Tem campanha com três mapas, inimigos e três bosses, e os personagens jogáveis são meus colegas
+de trabalho. Roda inteiro no navegador, com MediaPipe e Phaser.
+**[▶ Jogar](https://handy-bird.netlify.app/)**
 
-Um jogo arcade em que você controla o pássaro com a própria mão, pela webcam. O
-rastreamento da mão roda em tempo real no navegador, sem servidor: a palma guia o
-voo, o punho fechado dispara o laser e o sinal de paz pausa o jogo.
+**Lakehouse de Pokémon no Fabric e no GCP**: construí o mesmo lakehouse nas duas plataformas
+para comparar as diferenças e as limitações de cada uma. O tema é análise de stats e um
+"recrutador" que monta times. Pokémon é um assunto que eu conheço bem.
 
-**[▶ Jogar agora](https://handy-bird.netlify.app/)** · JavaScript · Visão computacional · MediaPipe
+**Genies com a API do New York Times**: dois Genies no Databricks em cima dos dados do NYT,
+um pensado para o escritor e outro para o gestor.
 
-<br>
+**Previsão de incêndios florestais**: modelo de ML treinado com dados das APIs da NASA.
 
-<div align="center">
+**AdventureWorks**: limpeza de dados e entrega de dashboards.
 
-[![GitHub](https://img.shields.io/badge/github.com%2FLopespp-1f2937?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Lopespp)
+**Lakehouse e-commerce**: fiz para pôr em prática o curso *Lakehouse Build* da Databricks
+Academy, com camadas bronze, silver e gold e uma pipeline ligando tudo.
 
-<sub>Do dado bruto ao insight, um pipeline de cada vez.</sub>
+<sub>Os projetos da Programmers são de estudo. Vou para projeto de cliente em breve.</sub>
 
-</div>
+## Formação
+
+- **Sistemas de Informação**, Uniara (6º de 8 semestres, previsão de término em dez/2027)
+- Badges da **Databricks Academy** ([ver credenciais](https://credentials.databricks.com/profile/pietrolopes687172/wallet))
+- **CS50's Introduction to Programming with Python**, Harvard (em andamento)
+- Lógica com JavaScript e Python, DIO
+
+Antes da Programmers fui jovem aprendiz na **Joga**, uma loja de pesca e ciclismo. Lá fiquei
+a maior parte do tempo no marketing, mexendo no Photoshop e ajudando a ajustar o site, e
+também passei pelo controle de qualidade e de estoque.
+
+## Fora do código
+
+Jogo muito no PC, principalmente campanha com história que prende: Silent Hill 2, Persona 3 e 5,
+The Last of Us, Expedition 33, Cyberpunk 2077, Phoenix Wright. No online, joguei muito Overwatch.
+Não saio sem fone: Kendrick Lamar, Frank Ocean, Arthur Verocai, Djavan, Sabotage, Nill.
+Treino na academia para desestressar e gosto de cinema (*Se7en*, *Kill Bill*, *Donnie Darko*,
+*Bastardos Inglórios*) e de filosofia (Dostoiévski, Nietzsche, Spinoza).
+
+Estou sempre aberto a conversar sobre dados. É só chamar no LinkedIn ou por e-mail.
