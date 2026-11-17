@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/34950669/README.md)
+(https://github.com/user-attachments/files/34950669/README.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=190&section=header&color=0:C8875A,100:F0B94A&text=Pietro%20Lopes%20Ramos&fontSize=52&fontColor=0d1117&fontAlignY=38&animation=fadeIn" width="100%" alt="Pietro Lopes Ramos">
